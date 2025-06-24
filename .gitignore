@@ -1,13 +1,9 @@
-ECHO is on.
+SnakeandLadder/
 bin/
 obj/
 *.user
 *.suo
-*.userosscache
-*.sln.docstates
-.vs/
 *.log
-*.tmp
-*.cache
-*.db
-
+.vs/
+node_modules/
+dist/
